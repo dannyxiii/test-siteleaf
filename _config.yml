@@ -17,6 +17,6 @@ url: https://dannyxiii.github.io
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-feed
